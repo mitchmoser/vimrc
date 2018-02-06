@@ -1,5 +1,7 @@
 # vimrc
-This is a copy of my vimrc
+This is a copy of my running config
+
+The path for running config is the root of a user's home directory `~/.vimrc`
 
 These plugins make it easier to use Vim as a Python IDE
 
