@@ -23,6 +23,9 @@ Plugin 'scrooloose/nerdtree'            "filesystem tables
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
+set expandtab                " enter spaces when tab is pressed
+set shiftwidth=4             " number of spaces to use for auto indent
+set tabstop=4                " use 4 spaces to represent tab
 
 "UTF8 Support
 set encoding=utf-8
